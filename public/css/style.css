@@ -36,6 +36,10 @@ body{
     color: #7d878c!important;
 }
 
+nav a {
+    font-size: 16px ;
+}
+
 nav a:hover {
     color: #f4c118!important;
 }
@@ -50,7 +54,7 @@ h1 {
     font-size: 40px !important;
 }
 
-span {
+.sub-title {
     font-family: 'ABeeZee', sans-serif!important;
     font-size: 20px !important;
 }
