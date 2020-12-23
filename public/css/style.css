@@ -74,3 +74,8 @@ nav a:hover {
 input[type=number] {
     width: 60px !important;
 }
+
+#logo{
+    width: 250 px;
+    height: 81px;
+}
