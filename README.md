@@ -7,5 +7,5 @@
 * Réserver
 * Contactez-nous
 ### Informations techniques
-Bootstrap : v4.5.3
-CSS et images dans le dossier public
+* Bootstrap : v4.5.3
+* CSS et images dans le dossier public
