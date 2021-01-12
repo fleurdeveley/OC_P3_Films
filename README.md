@@ -1,5 +1,5 @@
 # OC - Projet3 
-## Festival du Film de Plein Air
+## Festival "Les Films de Plein Air"
 ### Plan du site
 * Qui sommes nous ?
 * Programme
